@@ -20,7 +20,7 @@ body {
 
 .form-register {
    width: 400px;
-   background: #87a059;
+   background: #8c997a;
    padding: 30px;
    margin: auto;
    margin-top: 100px;
@@ -82,7 +82,11 @@ body {
    margin-bottom: 2rem;
    background-color: #e9ecef;
    border-radius: .3rem;
-   background-color: #87a059;
+   background-color: #8c997a;
+ }
+
+ .parrafo1{
+    background-color: white;
  }
 
 
@@ -123,7 +127,7 @@ footer.light .footer-copyright{ background: none repeat scroll 0 0 rgba(255, 255
 .widget.no-box{ padding: 0; background-color: transparent;  margin-bottom: 40px;
   box-shadow: none; -webkit-box-shadow: none; -moz-box-shadow: none; -ms-box-shadow: none; -o-box-shadow: none;}
 .widget.subscribe p{  margin-bottom: 18px;}
-.widget li a{ color: #ff8d1e;}
+.widget li a{ color: #91938a;}
 .widget li a:hover{ color: #4b92dc;}
 .widget-title {margin-bottom: 20px;}
 .widget-title span {background: #839FAD none repeat scroll 0 0;display: block; height: 1px;margin-top: 25px;position: relative;width: 20%;}
@@ -159,4 +163,16 @@ box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
 -o-transition: all 250ms ease-in-out 0s;
 transition: all 250ms ease-in-out 0s;
 
+}
+
+.bt-custom-ma{
+
+   background-color: #4d6271 !important;
+   border-color: #4d6271 im !important;
+
+}
+.padding-galery
+{
+   margin: 0;
+   padding-bottom: 10px !important;
 }
